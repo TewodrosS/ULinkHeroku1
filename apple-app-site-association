@@ -5,9 +5,7 @@
 			{
 				"appID": "JA4N2HK74D.com.nordstrom.fla-ios",
 				"paths": [
-					"/arduino.html",
-					"/raspberrypi.html",
-					"/beaglebone.html"
+					"/arduino.html"
 				]
 			}
 		]
